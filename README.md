@@ -1,3 +1,13 @@
+
+
+![clipboard_image_e9eb22705545ecd](https://github.com/v222008/raspberry-noaa-v2/assets/4614427/437b6709-87ee-4f97-acf5-e7d15e5e94f0)
+
+![clipboard_image_f49e07abf400c396](https://github.com/v222008/raspberry-noaa-v2/assets/4614427/0799e96c-2562-4d6b-8bfc-d0ddad629149)
+
+![clipboard_image_3fbe0e67fd0b9d40](https://github.com/v222008/raspberry-noaa-v2/assets/4614427/4e9a2ab7-81f7-40b1-a8ff-e52e63b8a825)
+
+
+
 ![Raspberry NOAA](assets/header_1600_v2.png)
 
 Looking for support, wanting to talk about new features, or just hang out? Come chat with us on [Discord!](https://discord.gg/A9w68pqBuc)
